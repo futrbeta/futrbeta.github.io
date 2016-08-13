@@ -13,17 +13,17 @@ The beta frame could be seen as a lighter, simplera and cleaner version of the F
 
 ## Specs:
 
-Weight:  6.9 kg
+**Weight:**  6.9 kg
 
 Headset – Standard 1/18th (straight steerer)
 
-Bottom Bracket: Standard 68 mm (but with some requierments)
+**Bottom Bracket:** Standard 68 mm (but with some requierments)
 
-Seat Post: 31.6 mm
+**Seat Post:** 31.6 mm
 
-Dropout: 135 mm
+**Dropout:** 135 mm
 
-Available from:
+**Available from:**
 
 http://envolt.se<br>
 http://hyenaelectricbikes.com/?page_id=110
