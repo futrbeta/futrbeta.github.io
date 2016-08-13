@@ -15,7 +15,7 @@ The beta frame could be seen as a lighter, simplera and cleaner version of the F
 
 **Weight:**  6.9 kg
 
-Headset – Standard 1/18th (straight steerer)
+**Headset:** Standard 1/18th (straight steerer)
 
 **Bottom Bracket:** Standard 68 mm (but with some requierments)
 
@@ -23,7 +23,6 @@ Headset – Standard 1/18th (straight steerer)
 
 **Dropout:** 135 mm
 
-**Available from:**
-
+**Available from:**<br>
 http://envolt.se<br>
 http://hyenaelectricbikes.com/?page_id=110
