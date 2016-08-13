@@ -7,7 +7,7 @@ permalink: /frame/
 ### Flux Beta frame
 
 A frame designed and built by the same team that brought the awesome Sthealt Bomber/Fighter bikes to the world.
-The beta frame could be seen as a lighter simpler version of the Fighters frame.
+The beta frame could be seen as a lighter, simplera and cleaner version of the Fighters frame.
 
 !!BETA IMAGE!!
 
@@ -23,5 +23,7 @@ Seat Post: 31.6 mm
 
 Dropout: 135 mm
 
+Available from:
 
+http://envolt.se<br>
 http://hyenaelectricbikes.com/?page_id=110
