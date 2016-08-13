@@ -6,7 +6,10 @@ permalink: /frame/
 
 ### Flux Beta frame
 
-* 6.9 kg
-* 136 mm dropout
-* 68 mm bottom bracket
-*
+Specs:
+
+Weight:  6.9 kg
+Headset – Standard 1/18th (straight steerer)
+Bottom Bracket: Standard 68mm
+Seat Post: 31.6mm
+Dropout: 135mm 
