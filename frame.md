@@ -12,8 +12,8 @@ Weight:  6.9 kg
 
 Headset – Standard 1/18th (straight steerer)
 
-Bottom Bracket: Standard 68mm
+Bottom Bracket: Standard 68 mm (but with some requierments)
 
-Seat Post: 31.6mm
+Seat Post: 31.6 mm
 
-Dropout: 135mm 
+Dropout: 135 mm
