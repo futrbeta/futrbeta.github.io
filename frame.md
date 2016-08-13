@@ -6,7 +6,7 @@ permalink: /frame/
 
 ### Flux Beta frame
 
-Specs:
+## Specs:
 
 Weight:  6.9 kg
 
