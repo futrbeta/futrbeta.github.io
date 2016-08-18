@@ -16,9 +16,8 @@ The main components is:
 
 * The battery
 
-* And a [Spotwelder](http://github.com) to create the battery.
+* And a [Spotwelder](/path) to create the battery.
 
-[Some Link]({% post_url 2010-07-21-name-of-post %})
 
 I hope to be able to provide information that the uninitiated find interesting and still be a resource for the guys at endless-sphere that plan use the same components. And of course serve as log for myself, if I ever wondered why I did something one way or where I found that particular information.
 
