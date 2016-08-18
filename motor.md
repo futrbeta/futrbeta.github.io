@@ -11,7 +11,7 @@ The beta frame could be seen as a lighter, simpler and cleaner version of the Fi
 It will also be referenced to as Flux Beta frame as it was its name until recently
 
 
-!!BETA IMAGE!!
+!!Motor IMAGE!!
 
 ## Specs:
 
@@ -19,12 +19,12 @@ It will also be referenced to as Flux Beta frame as it was its name until recent
 
 **Headset:** Standard 1/18th (straight steerer)
 
-**Bottom Bracket:** Standard 68 mm (but with some requierments)
+**Bottom Bracket:** Standard 68 mm (but with some requirements)
 
 **Seat Post:** 31.6 mm
 
 **Dropout:** 135 mm
 
 **Available from :**<br>
-http://envolt.se<br>
-http://hyenaelectricbikes.com/?page_id=110
+http://www.leafbike.com/
+http://www.leafbike.com/products/e-bike-hub-motor/gearless-20-24-26-700c-28-29-inch/updated-20-inch-48v-1500w-rear-hub-motor-wheel-1016.html

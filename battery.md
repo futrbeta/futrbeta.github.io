@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Frame
-permalink: /frame/
+title: Battery
+permalink: /battery/
 ---
 
-### Futr Beta frame
+### Battery
 
 A frame designed and built by the same team that brought the awesome Stealth[http://stealthelectricbikes.com] Bomber/Fighter bikes to the world.
 The beta frame could be seen as a lighter, simpler and cleaner version of the Fighters frame.
 It will also be referenced to as Flux Beta frame as it was its name until recently
 
 
-!!BETA IMAGE!!
+!!Motor IMAGE!!
 
 ## Specs:
 
@@ -25,6 +25,5 @@ It will also be referenced to as Flux Beta frame as it was its name until recent
 
 **Dropout:** 135 mm
 
-**Available from :** <br>
-http://envolt.se <br>
-http://hyenaelectricbikes.com/?page_id=110
+**Available from :**<br>
+http://eu.nkon.nl
