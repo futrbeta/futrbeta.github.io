@@ -12,7 +12,7 @@ It will also be referenced to as Flux Beta frame as it was its name until recent
 
 
 !!BETA IMAGE!!
-![Futr Beta Frame]({{ site.baseurl }}/images/config.png)
+![Futr Beta Frame]({{ site.baseurl }}/images/beta_unpacked.jpg)
 
 ## Specs:
 
