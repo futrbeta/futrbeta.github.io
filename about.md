@@ -10,13 +10,13 @@ A site where I will document the process of my ebike build and gather informatio
 
 The main components is:
 
-* The Futr Beta bike frame, A DIY frame from the minds behind Stealth bomber/fighter bikes.
-* The Adaptto system, main components is the motor controller and display but with BMS and charging coil add-ons it also serve as a charger and battery balancer.
-* And a Leafbike 35mm hub motor.
+* The [Futr Beta bike frame](/frame), A DIY frame from the minds behind Stealth bomber/fighter bikes.
+* The [Adaptto system](/adaptto), main components is the motor controller and display but with BMS and charging coil add-ons it also serve as a charger and battery balancer.
+* And a [Leafbike 35mm hub motor](/motor).
 
-* The battery
+* The [battery](/battery)
 
-* And a [Spotwelder](/path) to create the battery.
+* And a [Spotwelder](/spotwelder) to create the battery.
 
 
 I hope to be able to provide information that the uninitiated find interesting and still be a resource for the guys at endless-sphere that plan use the same components. And of course serve as log for myself, if I ever wondered why I did something one way or where I found that particular information.
