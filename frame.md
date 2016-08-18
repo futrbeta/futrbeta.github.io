@@ -4,10 +4,12 @@ title: Frame
 permalink: /frame/
 ---
 
-### Flux Beta frame
+### Futr Beta frame
 
-A frame designed and built by the same team that brought the awesome Sthealt Bomber/Fighter bikes to the world.
-The beta frame could be seen as a lighter, simplera and cleaner version of the Fighters frame.
+A frame designed and built by the same team that brought the awesome Stealth[http://stealthelectricbikes.com] Bomber/Fighter bikes to the world.
+The beta frame could be seen as a lighter, simpler and cleaner version of the Fighters frame.
+It will also be referenced to as Flux Beta frame as it was its name until recently
+
 
 !!BETA IMAGE!!
 
@@ -23,6 +25,6 @@ The beta frame could be seen as a lighter, simplera and cleaner version of the F
 
 **Dropout:** 135 mm
 
-**Available from:**<br>
+**Available from :**<br>
 http://envolt.se<br>
 http://hyenaelectricbikes.com/?page_id=110
