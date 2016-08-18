@@ -10,7 +10,7 @@ A site where I will document the process of my ebike build and gather informatio
 
 The main components is:
 
-* The [Futr Beta bike frame](/frame), A DIY frame from the minds behind Stealth bomber/fighter bikes.
+* The [Futr Beta bike frame](/frame), A DIY frame from the minds behind [Stealth](http://www.stealthelectricbikes.com/) Bomber/Fighter bikes.
 * The [Adaptto system](/adaptto), main components is the motor controller and display but with BMS and charging coil add-ons it also serve as a charger and battery balancer.
 * And a [Leafbike 35mm hub motor](/motor).
 
