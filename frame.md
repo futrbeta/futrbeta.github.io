@@ -11,7 +11,6 @@ The beta frame could be seen as a lighter, simpler and cleaner version of the Fi
 It will also be referenced to as Flux Beta frame as it was its name until recently
 
 
-!!BETA IMAGE!!
 ![Futr Beta Frame]({{ site.baseurl }}/images/beta_unpacked.jpg)
 
 ## Specs:
