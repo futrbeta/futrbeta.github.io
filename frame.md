@@ -6,7 +6,7 @@ permalink: /frame/
 
 ### Futr Beta frame
 
-A frame designed and built by the same team that brought the awesome Stealth[http://stealthelectricbikes.com] Bomber/Fighter bikes to the world.
+A frame designed and built by the same team that brought the awesome [Stealth](http://stealthelectricbikes.com) Bomber/Fighter bikes to the world.
 The beta frame could be seen as a lighter, simpler and cleaner version of the Fighters frame.
 It will also be referenced to as Flux Beta frame as it was its name until recently
 
