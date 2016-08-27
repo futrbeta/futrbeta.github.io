@@ -3,8 +3,6 @@ layout: post
 title: Jolt testing
 ---
 
-**Jolt testing.**
-
 Beginning the day with a separately charging the LiPo-packs. (No, the Adaptto BMS is not connected yet)  This also ment that I can test the setup with 18S. And suddenly something interesting happened, I expected a massive jolt, but at first I tested at OVS2, didnt feel a thing. Then I changed to OVS4, and still nothing.
 
 Whats is a little weird is that I began the morning with testing at OVS2 with the somewhat discharged LiPo-packs. At 44volts I did feel the jolt.
