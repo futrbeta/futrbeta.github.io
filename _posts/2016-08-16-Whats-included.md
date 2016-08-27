@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whats included?
+title: Futr Beta - Whats included?
 ---
 Before ordering the Futr Beta I seen a lot of pictures of other peoples Beta builds. But it never got completely clear exactly what is include when buying the frame.
 
