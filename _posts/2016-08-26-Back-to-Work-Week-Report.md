@@ -31,7 +31,7 @@ So I did a reset of the controller again, ran Autodetect again with mixed result
 
 Just found this post a moment ago.
 https://endless-sphere.com/forums/viewtopic.php?f=2&t=61183&start=3825
-Where Allex thats running a setup very mush like mine. (Or rather, the other way around ;) ) Is only using OVS 2 on his Leafbike T4 motor, could it be becauce of the Jolt-problem going higher? Have to try that tomorrow. I also remember seeing this post before, this is the reason I went with a 5T motor instead.
+Where Allex, thats running a setup very mush like mine. (Or rather, the other way around ;) ) Is only using OVS 2 on his Leafbike T4 motor, could it be because of the Jolt-problem going higher? Have to try that tomorrow. I also remember seeing this post before, this is the reason I went with a 5T motor instead.
 
 https://endless-sphere.com/forums/viewtopic.php?f=30&t=66489&start=1025#p1182792
 
