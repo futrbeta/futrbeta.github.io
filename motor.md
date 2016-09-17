@@ -29,7 +29,22 @@ It will also be referenced to as Flux Beta frame as it was its name until recent
 
 **Spokes:** 12grams
 
-**Rim:** Mavic XM319
+**Rim:** Mavic XM319 24inch
+FEATURES
+6106 aluminum alloy
+Pinned
+Traditional drilling
+Single eyelet
+Tubetype
+Disc
+
+DIMENSIONS
+ETRTO compatible size: 559 x 19
+Recommended tyre widths: 1.50 to 2.30
+Valve hole diameter: 8.5 mm, supplied with valve adapter
+Recommended nipple length: 12 mm
+Recommended rim tape: 559 x 20 x 0.6
+
 
 **Available from :**<br>
 http://www.leafbike.com/
