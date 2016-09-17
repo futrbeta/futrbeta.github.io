@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Futr Beta - Whats included?
+title: FUTR Beta - Whats included?
 ---
-Before ordering the Futr Beta I seen a lot of pictures of other peoples Beta builds. But it never got completely clear exactly what is include when buying the frame.
+Before ordering the FUTR Beta I seen a lot of pictures of other peoples Beta builds. But it never got completely clear exactly what is include when buying the frame.
 
 Buying the frame gave me the answers. :) Hopefully this info is helpful to some of you.
 
