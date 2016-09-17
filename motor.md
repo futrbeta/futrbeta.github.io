@@ -25,6 +25,12 @@ It will also be referenced to as Flux Beta frame as it was its name until recent
 
 **Dropout:** 135 mm
 
+**Spoke Holes:** 36H
+
+**Spokes:** 12grams
+
+**Rim:** Mavic XM319
+
 **Available from :**<br>
 http://www.leafbike.com/
 http://www.leafbike.com/products/e-bike-hub-motor/gearless-20-24-26-700c-28-29-inch/updated-20-inch-48v-1500w-rear-hub-motor-wheel-1016.html
