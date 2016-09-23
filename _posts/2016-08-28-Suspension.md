@@ -13,6 +13,3 @@ And of course the fork should look good and be adjustable.
 To top that of, you want your front and rear suspension to at least be somewhat matched.
 
 So I decided to take the easy way out. Buying a fork and rear suspension that is accualy custom made for the Futr Beta frame. Once again from envolt.se. The main issue I have with USD-6 is that it has a reversed design. Where the sensitive part of the fork is down low, making it more to ... damage. If I'm right, only time will tell. =)
-
-
-![Swingarm Ballbearings](/images/swingarm_ballbearings.jpg)
