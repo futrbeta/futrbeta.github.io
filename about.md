@@ -25,6 +25,18 @@ Its also my first blog using Jekyll, so this will be fun.
 
 Now lets begin the journey.
 
+Components:
+Brakes Magura MT5, discs and mount adapters.
+https://rosebikes.de
+Domino Throttle
+https://fasterbikes.eu
+FUTR Beta Frame
+https://futrelectricbike.com via https://envolt.se
+24" Halo T2 Wheel/Rim, Halo Ception and Halo Twin Rails
+https://tritoncycles.co.uk
+Leafbike 35mm hub motor
+https://leafbike.com
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)

@@ -8,9 +8,9 @@ IS (International Standard) and Post Mount.
 By looking at the specs for DNM USD-6, there should be a IS mount on them.
 So what I needed was an IS 180mm adapter and that what I ordered.
 
-But after getting the fork I started to realize that there more custom parts than just the 1 1/8" steerer. Theres also a diffrent wheel (20mm tru axel) and disk brake mounts. Yes can have two cali on these forks. =)
+But after getting the fork I started to realize that there more custom parts than just the 1 1/8" steerer. Theres also a different wheel (20mm thru axel) and disk brake mounts. Yes can have two cali on these forks. =)
 
-I started to look for adapters from the Post Mounts to an 180mm disc, but started to get confused when there where diffrent adapters to the same size discs. It couldnt be? sure it could. There are 4 diffrent post mounts!
+I started to look for adapters from the Post Mounts to an 180mm disc, but started to get confused when there where different adapters to the same size discs. It couldn't be? sure it could. There are 4 different post mounts!
 
 PM 5" for 140mm
 PM 6" for 160mm
@@ -25,7 +25,7 @@ I also contacted the reseller I bought the forks from, and according to him its 
 
 But then I found this.
 ![Post mount drawing](/images/front-pm.jpg)
-A drawing with the measurements for the diffrent post mounts.
+A drawing with the measurements for the different post mounts.
 
-Measureing the the C and D (65mm and 105mm). so it got to be a 180mm (PM 7") then. Just what I got! Execlent! No need for a adapter then, hopefully.
+Measuring the the C and D (65mm and 105mm). so it got to be a 180mm (PM 7") then. Just what I got! Excellent! No need for a adapter then, hopefully. ;)
 Will see if thats correct later next week when I get my front wheel.
